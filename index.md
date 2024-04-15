@@ -7,3 +7,8 @@ a <- 20
 b <- 30
 c <- a + b
 ```
+# Tasklist
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
